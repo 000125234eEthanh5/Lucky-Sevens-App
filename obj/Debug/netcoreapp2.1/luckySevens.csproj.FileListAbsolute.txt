@@ -1,0 +1,11 @@
+/Users/ethanh5/apps/luckySevens/obj/Debug/netcoreapp2.1/luckySevens.csprojAssemblyReference.cache
+/Users/ethanh5/apps/luckySevens/obj/Debug/netcoreapp2.1/luckySevens.csproj.CoreCompileInputs.cache
+/Users/ethanh5/apps/luckySevens/obj/Debug/netcoreapp2.1/luckySevens.AssemblyInfoInputs.cache
+/Users/ethanh5/apps/luckySevens/obj/Debug/netcoreapp2.1/luckySevens.AssemblyInfo.cs
+/Users/ethanh5/apps/luckySevens/bin/Debug/netcoreapp2.1/luckySevens.deps.json
+/Users/ethanh5/apps/luckySevens/bin/Debug/netcoreapp2.1/luckySevens.runtimeconfig.json
+/Users/ethanh5/apps/luckySevens/bin/Debug/netcoreapp2.1/luckySevens.runtimeconfig.dev.json
+/Users/ethanh5/apps/luckySevens/bin/Debug/netcoreapp2.1/luckySevens.dll
+/Users/ethanh5/apps/luckySevens/bin/Debug/netcoreapp2.1/luckySevens.pdb
+/Users/ethanh5/apps/luckySevens/obj/Debug/netcoreapp2.1/luckySevens.dll
+/Users/ethanh5/apps/luckySevens/obj/Debug/netcoreapp2.1/luckySevens.pdb
